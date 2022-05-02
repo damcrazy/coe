@@ -14,7 +14,7 @@ ordering = Faculty.sort(
 
 export default function parse() {
     return (
-      <div> hi </div>
+      <div> bye </div>
     )
   }
   
