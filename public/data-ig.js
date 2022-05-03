@@ -1,9 +1,9 @@
 export var Faculty = [
-{id:"1",name:"A",Desig:"Assistant Professor",Dept:"ISE",status:"Active",lastServed:"10"},
-{id:"2",name:"B",Desig:"Associate Professor",Dept:"ISE",status:"notActive",lastServed:"2"},
-{id:"3",name:"C",Desig:"Assistant Professor",Dept:"ISE",status:"Active",lastServed:"5"},
-{id:"4",name:"D",Desig:"Professor",Dept:"ISE",status:"Active",lastServed:"3"},
-{id:"5",name:"E",Desig:"Assistant Professor",Dept:"ISE",status:"Active",lastServed:"10"}
+{id:"1",name:"A",Desig:"Assistant Professor",Dept:"ISE",status:"Active",lastServed:"10",numSessions:"0"},
+{id:"2",name:"B",Desig:"Associate Professor",Dept:"ISE",status:"notActive",lastServed:"2",numSessions:"0"},
+{id:"3",name:"C",Desig:"Assistant Professor",Dept:"ISE",status:"Active",lastServed:"5",numSessions:"0"},
+{id:"4",name:"D",Desig:"Professor",Dept:"ISE",status:"Active",lastServed:"3",numSessions:"0"},
+{id:"5",name:"E",Desig:"Assistant Professor",Dept:"ISE",status:"Active",lastServed:"10",numSessions:"0"}
 ]
 
 var classroom = [
